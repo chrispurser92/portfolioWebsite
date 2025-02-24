@@ -1,0 +1,7 @@
+footer {
+    border-top: 3px solid #2d2d44;
+    position: absolute;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100px;
+}
